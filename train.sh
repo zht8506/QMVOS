@@ -1,0 +1,1 @@
+python -m torch.distributed.launch --master_port 25764 --nproc_per_node=4 --use_env train_QMVOS.py --exp_id train_QMVOS --stage 3
