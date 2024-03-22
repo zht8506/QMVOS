@@ -7,6 +7,8 @@ For more details, please refer to our [paper](https://arxiv.org/abs/2403.11529).
 
 <img src="resources/overview.png">
 
+The code of our SIM and QCIM please refer to model/QMVOS_trainer.py.
+
 ## :open_file_folder: Result and Weight
 Our QMVOS can bring significant improvements to memory-based SVOS method and achieve competitive performance on standard SVOS bench- marks.
 
