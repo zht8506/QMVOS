@@ -20,7 +20,7 @@ Download the weight(s) from corresponding links below.
 
 
 ## 🚀 Training
-More detail please see [mmdetection](https://github.com/open-mmlab/mmdetection).
+More detail please see [Xmem](https://github.com/hkchengrex/XMem).
 ```
 bash train.sh
 python -m torch.distributed.launch --master_port 25764 --nproc_per_node=4 --use_env train_QMVOS.py --exp_id train_QMVOS --stage 3
